@@ -1,6 +1,10 @@
-![Playwright banner](tutorial/images/playwright-banner.jpeg)
+# <img width="30px" height="30px" src="./asset/playwright-logo.svg"/> Playwright Automation Testing Prototype
 
-# Playwright Automation Testing Prototype
+<br>
+<p align="center">
+  <img src="./asset/run login.spec.js & run with tag.gif"/>
+</p>
+<br>
 
 ## Overview
 
@@ -42,6 +46,14 @@ npx playwright test
 
 4. Edit test data: If you want to update or add new test data, simply modify the files in the /data directory. New test data can be added to the corresponding test case to enhance the test coverage.
 
+## System requirements
+
+- Node.js 18+
+- Windows 10+, Windows Server 2016+ or Windows Subsystem for Linux (WSL).
+- macOS 13 Ventura, or later.
+- Debian 12, Ubuntu 22.04, Ubuntu 24.04, on x86-64 and arm64 architecture.
+- For more Playwright details, you can check https://playwright.dev/docs/intro
+
 ## Example of Data-Driven Test
 
 Here’s a brief example of how data-driven tests are implemented:
@@ -65,4 +77,4 @@ In this example, each set of employeeData will drive the test, ensuring that the
 
 Feel free to fork the repository and submit pull requests if you'd like to contribute. Whether you want to improve the existing tests, add new test cases, or just explore Playwright’s capabilities, this repository serves as a great starting point.
 
-🛎️ If you have any difficulties or just want to discuss, please give me your feedback at msuryana45@gmail.com
+🛎️ If you have any difficulties or just want to discuss, please give me your feedback at msuryana45@gmail.com or send message on My [LinkedIn](https://www.linkedin.com/in/muhamad-suryana/)
