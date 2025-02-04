@@ -4,9 +4,9 @@
   "main": "index.js",
   "scripts": {},
   "keywords": [],
-  "author": "",
+  "author": "Muhamad Suryana",
   "license": "ISC",
-  "description": "",
+  "description": "Hello guys, I'm Suryana. This is my prototype project for website testing using Playwright. If you want to try this project, feel free to clone it and try it yourself",
   "devDependencies": {
     "@playwright/test": "^1.49.1",
     "@types/node": "^22.10.6"
